@@ -1,7 +1,7 @@
 # mealapp
 
-Aplikasi web untuk menjelajahi ribuan resep masakan berdasarkan bahan (ingredient) yang tersedia. Dibangun menggunakan **Next.js**, **React**, dan **TypeScript**, serta mengambil data dari
-**TheMealDB API** secara real-time.
+Aplikasi web untuk menjelajahi resep masakan berdasarkan bahan (ingredient) yang tersedia. Dibangun menggunakan **Next.js**, **React**, dan **TypeScript**, serta mengambil data dari
+**TheMealDB API**.
 
 ---
 
