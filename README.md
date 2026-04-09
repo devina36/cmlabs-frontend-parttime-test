@@ -61,5 +61,10 @@ npm run dev
 
 Buka browser dan akses: http://localhost:3000 (http://localhost:3000)
 
----
+```
+
+## DEMO
+
+```bash
+https://dev-meal-app.vercel.app/
 ```
