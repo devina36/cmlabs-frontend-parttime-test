@@ -41,7 +41,7 @@ Pastikan sudah terinstal di komputer:
 
 ```bash
 git clone <url-repository>
-cd cmlabs
+cd cmlabs-frontend-parttime-test
 
 2. Install Dependencies
 
